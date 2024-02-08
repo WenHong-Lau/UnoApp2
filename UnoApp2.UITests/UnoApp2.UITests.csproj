@@ -12,7 +12,7 @@
     <PackageReference Include="NUnit" Version="4.0.1" />
     <PackageReference Include="NUnit3TestAdapter" Version="4.5.0" />
     <PackageReference Include="Uno.UITest.Helpers" Version="1.1.0-dev.70" />
-    <PackageReference Include="Xamarin.UITest" Version="4.3.3" />
+    <PackageReference Include="Xamarin.UITest" Version="4.3.4" />
     <PackageReference Include="GitHubActionsTestLogger" Version="2.3.3">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
